@@ -34,6 +34,3 @@ You need to make sure that you have downloaded and installed [SimAVR](https://gi
 		$git push -u origin master
 ```
  - And start developing
-# Lab-2-CS120b
-# Lab-2-CS120b
-# Lab-2-CS120b
